@@ -156,13 +156,13 @@ working_dir   = "/home/marc/Documents/Test/"
 **Ubuntu / Linux** 
 ```bash
 conda activate ftms-raw
-python Thermo_QExactive_isotopic_peaks_era_ratio.py
+python Thermo_QExactive_isotopic_peaks_area_ratio.py
 ```
 
 **Windows (Anaconda Prompt / PowerShell)**
 ```bash
 conda activate ftms-raw
-python Thermo_QExactive_isotopic_peaks_era_ratio.py
+python Thermo_QExactive_isotopic_peaks_area_ratio.py
 ```
 
 ## Output
