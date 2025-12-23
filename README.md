@@ -82,6 +82,7 @@ python -m pip install numpy pandas scipy pythonnet
 ```
 
 - Install .NET SDK (>= 8.x)
+
 **Ubuntu 24.04 LTS**
 ```bash
 sudo apt update
