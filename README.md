@@ -117,7 +117,6 @@ then verify:
 The script expects a CSV file with ; as separator, containing at least:
 - Mass (float)
 - optionally RT (float, minutes)
-
 - Example:
 
 ```csv
